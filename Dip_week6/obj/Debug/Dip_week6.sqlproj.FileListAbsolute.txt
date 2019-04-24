@@ -1,0 +1,9 @@
+D:\GitHub\Dip_week6\Dip_week6\bin\Debug\Dip_week6.dacpac
+D:\GitHub\Dip_week6\Dip_week6\bin\Debug\Dip_week6.dll
+D:\GitHub\Dip_week6\Dip_week6\bin\Debug\Dip_week6.pdb
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\Dip_week6.dll
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\Dip_week6.pdb
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\Model.xml
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\refactor.xml
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\postdeploy.sql
+D:\GitHub\Dip_week6\Dip_week6\obj\Debug\predeploy.sql

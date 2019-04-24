@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseName>Dip_sweek5</TargetDatabaseName>
+    <DeployScriptFileName>Dip_week6.sql</DeployScriptFileName>
+    <TargetConnectionString>Data Source=pie.database.windows.net;Persist Security Info=True;User ID=pie;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=True;TrustServerCertificate=False</TargetConnectionString>
+    <BlockWhenDriftDetected>False</BlockWhenDriftDetected>
+    <RegisterDataTierApplication>False</RegisterDataTierApplication>
+    <ProfileVersionNumber>1</ProfileVersionNumber>
+  </PropertyGroup>
+  <ItemGroup>
+    <SqlCmdVariable Include="LoadTestData">
+      <Value>
+      </Value>
+    </SqlCmdVariable>
+  </ItemGroup>
+</Project>
